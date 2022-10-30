@@ -2,4 +2,34 @@ h1{
     background-color:antiquewhite;
     text-align:center;
     font-family:sans-serif;
+    width:60%;
+    margin:0 300px;
+    padding:10px;
+    border: 4px;
+    border-radius: 10pxs;
+}
+p{
+    font-family:tahoma;
+    font-size:x-large;
+    text-align:center;
+}
+#lord{
+    font-family:sans-serif;
+    background-color:aqua;
+    width:fit-content;
+    padding:2px;
+}
+div{
+    background-color:rgba(255, 0, 0, 0.603);
+    width:fit-content;
+    padding:5px;
+     font-size:x-large;
+     color:rgb(81, 0, 128);
+}
+.ban{
+    font-family:monospace;
+    font-size:xx-large;
+    background-color:pink;
+    width:max-content;
+    padding:2px 3px;
 }
